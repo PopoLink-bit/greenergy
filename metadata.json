@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Greenergy - 12.10",
+  "description": "Interaktywny slider 3D dla chrupiących przekąsek Greenergy Let\u0027s Raw (Chili \u0026 Lemon, Honey \u0026 Mustard, Summer Spices, Tomato \u0026 Basil) zoptymalizowany dla urządzeń desktopowych i mobilnych.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
